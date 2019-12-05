@@ -2,6 +2,7 @@
 
 ## go
 
+- https://github.com/andrzejd-pl/glog
 - https://github.com/andrzejd-pl/pc-control
 - https://github.com/andrzejd-pl/git-crawler
 - https://github.com/andrzejd-pl/power-switch
@@ -9,13 +10,12 @@
 - https://github.com/andrzejd-pl/go-env
 - https://github.com/andrzejd-pl/auto-deploy
 - https://github.com/andrzejd-pl/restConvolutionMatrix
-- https://github.com/andrzejd-pl/glog
 
 ## erlang
 
 - https://github.com/andrzejd-pl/reminder
 
-## cryptography
+## cryptography (java)
 
 - https://github.com/andrzejd-pl/blumblumshub
 - https://github.com/andrzejd-pl/aes
