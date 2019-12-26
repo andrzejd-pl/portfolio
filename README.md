@@ -23,6 +23,12 @@
 - https://github.com/andrzejd-pl/visual_cryptography
 - https://github.com/andrzejd-pl/shamirschema
 
+## Docker :whale:
+
+- https://github.com/andrzejd-pl/python-scientific (https://hub.docker.com/repository/docker/andrzejd/python3)
+- https://hub.docker.com/repository/docker/andrzejd/site-frontend
+- https://hub.docker.com/repository/docker/andrzejd/glog
+
 ## other
 
 - https://github.com/andrzejd-pl/mobile_hotspot
