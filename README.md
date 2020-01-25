@@ -14,6 +14,7 @@
 ## erlang
 
 - https://github.com/andrzejd-pl/reminder
+- https://github.com/andrzejd-pl/trade_fsm
 
 ## cryptography (java)
 
