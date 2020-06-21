@@ -11,6 +11,7 @@
 - https://github.com/andrzejd-pl/auto-deploy
 - https://github.com/andrzejd-pl/restConvolutionMatrix
 - https://github.com/andrzejd-pl/configuration-loader
+- https://github.com/andrzejd-pl/aws-s3
 
 ## erlang
 
