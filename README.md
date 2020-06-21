@@ -10,6 +10,7 @@
 - https://github.com/andrzejd-pl/go-env
 - https://github.com/andrzejd-pl/auto-deploy
 - https://github.com/andrzejd-pl/restConvolutionMatrix
+- https://github.com/andrzejd-pl/configuration-loader
 
 ## erlang
 
